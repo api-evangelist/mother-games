@@ -49,7 +49,6 @@ tags:
 - Mobile Games
 - Social Games
 - Entertainment
-- Startups
 tags_raw:
 - Company
 - Consumer
@@ -57,7 +56,6 @@ tags_raw:
 - Mobile Games
 - Social Games
 - Entertainment
-- Startup
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -80,3 +78,7 @@ common:
   url: https://www.mothergames.com/policy/terms
 - type: Careers
   url: https://www.mothergames.com/careers
+x-tags-removed:
+- Startups
+x-company-stage: startup
+x-company-stage-evidence: "own tags: Startup"
